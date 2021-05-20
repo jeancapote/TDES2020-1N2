@@ -1,0 +1,3 @@
+Nome: Nathan Bergmann
+Linguagem preferida: Python
+Hobby: Praticar Esporte
