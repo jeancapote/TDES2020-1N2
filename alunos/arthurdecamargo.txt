@@ -1,0 +1,3 @@
+Nome: Arthur de Camargo
+Linguagem preferida: PHP
+Hobby: comer churrasco
