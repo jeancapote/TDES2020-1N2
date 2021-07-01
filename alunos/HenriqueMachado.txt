@@ -1,0 +1,3 @@
+Nome: Henrique Machado
+Linguagem preferida: JavaScript
+Hobby: Tocar Guitarra
