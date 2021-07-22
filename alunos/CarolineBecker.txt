@@ -1,0 +1,3 @@
+Nome: Caroline	
+Linguagem preferida: Python
+Hobby: Viajar
